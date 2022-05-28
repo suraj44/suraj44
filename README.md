@@ -1,0 +1,26 @@
+### Hi there 👋
+
+I am Suraj, a graduate student at the University of Waterloo. My research involves building a scalable transaction processing storage system that is meant to support a new serverless runtime. I'm really enjoying the challenge of building this system from the ground up and solving problems that come up along the way. 
+
+During my time as an undergrad, I explored different areas of CS: 
+- a neural net for a handwritten equation solving application 
+- a return oriented programming exploit generation tool targetting executables vulnerable with a buffer overflow
+- implementing a queue management algorithm in the network stack of the Linux kernel.
+
+I enjoy reading papers related to distributed systems and operating systems and thinking about potential projects that can build on the ideas that they put forward.
+
+
+<!--
+**suraj44/suraj44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
